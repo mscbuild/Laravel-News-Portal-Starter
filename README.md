@@ -18,7 +18,8 @@ This is a practice project developed to demonstrate Laravel's capabilities in bu
    ```ruby
    git clone https://github.com/mscbuild/Laravel-news-portal-practice-project.git
    cd Laravel-news-portal-practice-project
-   
+   ```
+
  ## 🔧 Requirements
 
 <li>PHP 7.4 or higher
