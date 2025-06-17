@@ -1,7 +1,7 @@
 # 🏗 Laravel News Portal Project
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
- ![](https://img.shields.io/github/repo-size/mscbuild/e-learning)
+ ![](https://img.shields.io/github/repo-size/mscbuild/Laravel-News-Portal-Starter)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 ![](https://img.shields.io/badge/code%20style-php-green)
 ![](https://img.shields.io/github/stars/mscbuild)
